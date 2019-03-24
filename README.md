@@ -1,6 +1,10 @@
 Racoon Test
 Ejercicio 3
 
+## Autor
+
+Jung Ik 정익
+
 ## Available Scripts
 
 Descargar y utilizar los siguientes comandos para poder ejecutar en su localhost.
